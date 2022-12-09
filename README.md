@@ -67,5 +67,5 @@
 66. Ввел команду git clone https://github.com/grekovav/Test_project.git.
 67. Ввел команду git branch change_readme для создания новой ветки.
 68. Ввел команду git checkout change_readme для перехода в соответствующую ветку.
-69. 
-70. 
+69. Ввел команду git add . - добавил файл в индекс.
+70. Добавил коммит git commit -m "Изменил файл README.md".
