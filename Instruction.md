@@ -19,3 +19,4 @@ git push -u origin main
 6. Создаем новый файл (git status, git add, git commit).
 7. Отправляем обновления на GitHub git push --set -upstream origin new_branch
 8. Обновляем GitHub, появляется кнопка Compare and pull request - эти обновления можно отправить владельцу проекта.
+9. Команда git log --graph --all --oneline позволит просмотреть все происходящее в репозитории с ветками и конфликтами. 
